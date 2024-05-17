@@ -1,3 +1,1 @@
-
 this the example for git
-this is the second line 
